@@ -12,7 +12,7 @@ justify-content: center;
 export const Content = styled.div`
 backgroud-color; #FFFFFF;
 width:80%
-min-heigth; 350px;`
+`
 
 export const Row = styled.div`
     display: flex;

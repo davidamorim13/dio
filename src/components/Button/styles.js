@@ -7,6 +7,7 @@ export const ButtonContainer = styled.button`
     color: #FFFFF;
     font-sizer: 24px;
     font-height: 700;
+    flex: 1;
     
 
 `
