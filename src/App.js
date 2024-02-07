@@ -1,10 +1,13 @@
+import Input from './components/Input';
+import Button from './components/Buttons';
+
 import { Container, Content } from '. /styles';
 
 const App = () => {
   return (
     <Container>
       <Content>
-      olá
+      <Input />
       </Content>
     </Container>
   );

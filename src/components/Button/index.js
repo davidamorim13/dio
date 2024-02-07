@@ -1,9 +1,11 @@
 
-const Button = () ==> {
+import {ButtonContainer} from './styles';
+
+const Button = () => {
     return (
-      <div className="App">
+      <ButtonContainer>
       
-      </div>
+      </ButtonContainer>
     );
   }
   
