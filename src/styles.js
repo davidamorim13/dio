@@ -14,3 +14,15 @@ backgroud-color; #FFFFFF;
 width:80%
 min-heigth; 350px;`
 
+export const Row = styled.div`
+    display: flex;
+    flexdirection: row;
+    justify-content: space-betmeen;
+    align-items: center;
+`
+export const Column = styled.div`
+    display: flex;
+    flexdirection: column;
+    justify-content: space-betmeen;
+    align-items: center;
+    `
